@@ -15,7 +15,7 @@ gtk-color-scheme = "insensitive_fg_color:#444e62"
 gtk-color-scheme = "insensitive_text_color:#5f6061"
 gtk-color-scheme = "button_insensitive_fg_color:#444e62"
 gtk-color-scheme = "button_active:#875a87"
-gtk-color-scheme = "border_color:#4e5970"
+gtk-color-scheme = "border_color:#7e547e"
 
 include "widgets/default"
 include "widgets/buttons"
