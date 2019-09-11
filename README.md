@@ -11,3 +11,7 @@ Changelog: 23.08.2019.
 ----------------------
 
 Small color corrections in gtkrc file
+
+Changelog: 11.09.2019.
+
+Icon correction in assets folder
